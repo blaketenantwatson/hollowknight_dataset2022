@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 40
+names: ['aspid_hatchling', 'aspid_hunter', 'aspid_mother', 'baldur', 'baldur_projectile', 'bench', 'cornifer', 'crawlid', 'duranda', 'elder_baldur', 'fool_eater', 'goam', 'grub', 'gruz_mother', 'gruzzer', 'herrah_dreamer', 'hornet', 'husk_bully', 'husk_guard', 'husk_hornhead', 'husk_warrior', 'knight', 'leaping_husk', 'lumafly', 'lurien_dreamer', 'monomon_dreamer', 'moss_charger', 'moss_knight', 'mosscreep', 'mosskin', 'platform', 'quirrel', 'rope', 'squit', 'tiktik', 'vengefly', 'vengefly_king', 'volatile_mosskin', 'wandering_husk', 'zote']
